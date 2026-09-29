@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.MyCourse2" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+    <style name="Base.Theme.MyCourse2.WithActionBar" parent="Theme.Material3.DayNight">
+    </style>
+    <style name="Theme.MyCourse2" parent="Base.Theme.MyCourse2" />
+    <style name="Theme.MyCourse2.WithActionBar" parent="Base.Theme.MyCourse2.WithActionBar" />
+</resources>
