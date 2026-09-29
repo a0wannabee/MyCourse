@@ -16,6 +16,6 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="24dp"
         android:text="Deskripsi Kelas Praktikum Android: Mempelajari UI/UX, navigasi TabLayout, dan implementasi Options Menu."
-        android:textAlignment="center"
+        android:gravity="center"
         android:textSize="16sp" />
 </LinearLayout>
